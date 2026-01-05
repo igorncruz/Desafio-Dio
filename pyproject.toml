@@ -1,0 +1,9 @@
+[project]
+name = "desafio"
+version = "1.0"
+description = "Alternativa 1 (Mais Simples) e Alternativa 2 (Arquivo CSV Completo)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.3.3",
+]
